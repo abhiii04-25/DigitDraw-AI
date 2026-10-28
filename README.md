@@ -115,9 +115,9 @@ The model architecture includes convolutional layers, max-pooling, flattening, a
 
 ## 👨‍💻 Author
 
-**Your Name**
+Abhishek Sontakke
 
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/abhiii04-25
 
 ## 📄 License
 
